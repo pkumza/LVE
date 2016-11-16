@@ -1,0 +1,378 @@
+android/support/v4
+  758432
+    /home/ubuntu/lib-detector/decoded/com.conduit.app_182e332d98ed46c1a6901ee011741909.app.apk
+    /home/ubuntu/lib-detector/decoded/nz.co.welltech.apps.edafi.schematicdemo.apk
+  221418
+    /home/ubuntu/lib-detector/decoded/com.francescofornasini.easyfolders.apk
+  990927
+    /home/ubuntu/lib-detector/decoded/com.appsygames.megan.fox.apk
+  615569
+    /home/ubuntu/lib-detector/decoded/com.appbasic.bestsmarttools.apk
+  419699
+    /home/ubuntu/lib-detector/decoded/org.rakstar.homebuddy.apk
+  567096
+    /home/ubuntu/lib-detector/decoded/jp.beyond.tw.kaomoji.apk
+  827193
+    /home/ubuntu/lib-detector/decoded/com.andyres.demotivators.apk
+  562684
+    /home/ubuntu/lib-detector/decoded/com.game.trailerpop.apk
+com/google/ads
+  669188
+    /home/ubuntu/lib-detector/decoded/cn.zhenyun.tank.apk
+  426806
+    /home/ubuntu/lib-detector/decoded/com.brumitinc.contractorcart.apk
+  346729
+    /home/ubuntu/lib-detector/decoded/com.nazcasoft.hectorlavoe.apk
+  236301
+    /home/ubuntu/lib-detector/decoded/com.wTRENDYNAILS.apk
+  173010
+    /home/ubuntu/lib-detector/decoded/com.momgame.friuts.apk
+  728660
+    /home/ubuntu/lib-detector/decoded/com.iexemplar.bangalorepedia.apk
+  88437
+    /home/ubuntu/lib-detector/decoded/com.icloudzone.PoolKing.apk
+  588882
+    /home/ubuntu/lib-detector/decoded/mk.g6.coupondatabase.apk
+  665652
+    /home/ubuntu/lib-detector/decoded/com.appsimplify.bengaluruautofare.apk
+com/google/android/gms
+  711905
+    /home/ubuntu/lib-detector/decoded/com.chi.City.apk
+  406019
+    /home/ubuntu/lib-detector/decoded/com.game.trailerpop.apk
+  691777
+    /home/ubuntu/lib-detector/decoded/jp.vfja.android.extremebike.apk
+  169411
+    /home/ubuntu/lib-detector/decoded/com.madeleinesmithsi.obamavsromney.apk
+  137315
+    /home/ubuntu/lib-detector/decoded/com.joplinglobe.android.apk
+    /home/ubuntu/lib-detector/decoded/com.francescofornasini.easyfolders.apk
+  353076
+    /home/ubuntu/lib-detector/decoded/com.momgame.friuts.apk
+  133499
+    /home/ubuntu/lib-detector/decoded/com.andromo.dev58932.app175839.apk
+com/facebook
+  702841
+    /home/ubuntu/lib-detector/decoded/com.conduit.app_182e332d98ed46c1a6901ee011741909.app.apk
+  250290
+    /home/ubuntu/lib-detector/decoded/com.game.trailerpop.apk
+  612619
+    /home/ubuntu/lib-detector/decoded/com.beauty.krishna.apk
+  934695
+    /home/ubuntu/lib-detector/decoded/com.pliabull.FortyNiners.News.apk
+com/google/analytics
+  459782
+    /home/ubuntu/lib-detector/decoded/pk.catholic.missa.apk
+  313767
+    /home/ubuntu/lib-detector/decoded/com.appsygames.megan.fox.apk
+com/google/gson
+  247289
+    /home/ubuntu/lib-detector/decoded/com.fairyteller.dailybunny.apk
+  95795
+    /home/ubuntu/lib-detector/decoded/vecernjilistlite.institut.hr.apk
+com/android/vending
+org/apache/http
+org/apache/commons
+com/google/android/gcm
+  259212
+    /home/ubuntu/lib-detector/decoded/pk.catholic.missa.apk
+  258956
+    /home/ubuntu/lib-detector/decoded/com.game.trailerpop.apk
+  293229
+    /home/ubuntu/lib-detector/decoded/com.icloudzone.PoolKing.apk
+com/actionbarsherlock
+  331505
+    /home/ubuntu/lib-detector/decoded/org.rakstar.homebuddy.apk
+org/apache/cordova
+com/squareup
+  430096
+    /home/ubuntu/lib-detector/decoded/vecernjilistlite.institut.hr.apk
+  708550
+    /home/ubuntu/lib-detector/decoded/com.appsygames.megan.fox.apk
+com/flurry
+  752974
+    /home/ubuntu/lib-detector/decoded/com.p5min.fruitflow3613.apk
+twitter4j
+  723219
+    /home/ubuntu/lib-detector/decoded/com.carolina.panther.news.apk
+  590582
+    /home/ubuntu/lib-detector/decoded/com.appsygames.megan.fox.apk
+  466199
+    /home/ubuntu/lib-detector/decoded/com.noticesoftware.bama.apk
+    /home/ubuntu/lib-detector/decoded/com.pliabull.FortyNiners.News.apk
+com/google/zxing
+com/squareup/okhttp
+org/jsoup
+android/support/v7
+  563920
+    /home/ubuntu/lib-detector/decoded/vecernjilistlite.institut.hr.apk
+  619926
+    /home/ubuntu/lib-detector/decoded/vnmobile.cheats.android.picword.sggpicpuzzle.apk
+com/viewpagerindicator
+org/apache/james
+  331043
+    /home/ubuntu/lib-detector/decoded/com.noticesoftware.bama.apk
+com/revmob
+com/google/android/vending
+  255914
+    /home/ubuntu/lib-detector/decoded/com.tommmi.birthdaycardsap.apk
+com/millennialmedia
+  49682
+    /home/ubuntu/lib-detector/decoded/com.pliabull.FortyNiners.News.apk
+  607739
+    /home/ubuntu/lib-detector/decoded/com.martin.IslamicRingtonesForMuslim.apk
+com/inmobi
+  446070
+    /home/ubuntu/lib-detector/decoded/com.momgame.friuts.apk
+com/nostra13
+org/fmod
+  166728
+    /home/ubuntu/lib-detector/decoded/de.klickmedia.bullshitbingo.apk
+  176001
+    /home/ubuntu/lib-detector/decoded/jp.vfja.android.extremebike.apk
+org/slf4j
+  477075
+    /home/ubuntu/lib-detector/decoded/pk.catholic.missa.apk
+com/unity3d
+  50962
+    /home/ubuntu/lib-detector/decoded/com.DiJewels.SakuraFree.apk
+org/xmlpull
+org/acra
+com/google/gdata
+  190264
+    /home/ubuntu/lib-detector/decoded/com.game.trailerpop.apk
+org/kxml2
+  160546
+    /home/ubuntu/lib-detector/decoded/udayamcomplex.ticketnew.android.ui.apk
+oauth/signpost
+  454548
+    /home/ubuntu/lib-detector/decoded/com.noticesoftware.bama.apk
+com/startapp
+  185395
+    /home/ubuntu/lib-detector/decoded/com.cherry.krrish.apk
+org/kobjects/mime
+org/kobjects
+org/ksoap2
+net/sourceforge/zbar
+  271172
+    /home/ubuntu/lib-detector/decoded/com.tommmi.birthdaycardsap.apk
+com/chartboost/sdk
+nl/siegmann/epublib
+com/squareup/picasso
+  179435
+    /home/ubuntu/lib-detector/decoded/com.andyres.demotivators.apk
+com/jasonkostempski
+com/onbarcode
+pdftron
+  455727
+    /home/ubuntu/lib-detector/decoded/com.tommmi.birthdaycardsap.apk
+com/paypal
+com/bugsense
+pl/polidea
+com/nineoldandroids
+  68082
+    /home/ubuntu/lib-detector/decoded/com.foxnetworks.csl.apk
+com/googlecode/apdfviewer
+com/google/android/net
+com/adobe/air
+kankan/wheel
+com/amazon
+  613267
+    /home/ubuntu/lib-detector/decoded/com.newspaperdirect.bp.android.apk
+  384020
+    /home/ubuntu/lib-detector/decoded/com.zealocity.pocketloancalculator.apk
+com/adobe/flashplayer
+com/loopj
+  458985
+    /home/ubuntu/lib-detector/decoded/pk.catholic.missa.apk
+com/adobe/flashruntime
+com/phonegap
+android/support/v13
+org/codehaus
+com/smaato/SOMA
+gnu/ecmascript
+gnu/commonlisp
+gnu/mapping
+gnu/xml
+gnu/kawa
+kawa
+com/adsdk
+com/ironsource
+com/j256
+com/slidingmenu
+com/adobe/fre
+com/biznessapps
+com/urbanairship
+org/jaxen
+org/json
+com/google/appinventor
+com/adfonic
+com/adwhirl
+com/bump
+appinventor
+bolts
+android/widget
+uk/co/senab/actionbarpulltorefresh
+javax
+com/naef/jnlua
+org/appcelerator
+org/apache/harmony
+com/appbrain
+com/squareup/otto
+com/admob
+com/handmark/pulltorefresh
+com/handmark
+com/umeng/analytics
+com/umeng/common
+com/jirbo
+  983084
+    /home/ubuntu/lib-detector/decoded/com.madeleinesmithsi.obamavsromney.apk
+com/badlogic
+  753298
+    /home/ubuntu/lib-detector/decoded/com.bluBee.Brexel.apk
+  140038
+    /home/ubuntu/lib-detector/decoded/alchemic_tempest.skirmish2.apk
+com/fasterxml
+com/ansca/corona
+com/jumptap
+com/applovin
+  508874
+    /home/ubuntu/lib-detector/decoded/com.icloudzone.PoolKing.apk
+com/pollfish
+net/authorize
+com/parse
+  711931
+    /home/ubuntu/lib-detector/decoded/com.foxnetworks.csl.apk
+com/conduit/app
+  796374
+    /home/ubuntu/lib-detector/decoded/com.conduit.app_182e332d98ed46c1a6901ee011741909.app.apk
+com/spoledge
+com/inneractive
+com/huntmads
+com/esotericsoftware
+  221195
+    /home/ubuntu/lib-detector/decoded/alchemic_tempest.skirmish2.apk
+org/simpleframework
+com/polites
+com/playhaven
+com/sun/mail
+com/mobeta
+de/keyboardsurfer
+org/metalev/multitouch
+com/tapit
+com/astuetz
+v2/com/playhaven
+org/hamcrest
+org/vudroid
+com/appyet
+org/junit
+org/cocos2dx
+microsoft/mappoint
+com/verizon
+retrofit
+org/scribe
+com/Tobit
+org/openudid
+jsr166y
+com/umeng/update
+roboguice
+org/mozilla
+com/nuance
+com/tencent/mm
+com/umeng/fb
+org/andengine
+com/apperhand
+com/sina/sso
+com/openfeint
+com/mobfox
+com/newrelic
+com/appflood
+org/cocos2d
+android/opengl
+dagger
+com/alipay
+ti/modules/titanium
+com/comscore
+  296083
+    /home/ubuntu/lib-detector/decoded/com.noticesoftware.bama.apk
+com/github
+de/greenrobot/dao
+aurelienribon
+com/mopub/nativeads
+  779720
+    /home/ubuntu/lib-detector/decoded/com.momgame.friuts.apk
+ti/map
+com/amazonaws
+com/tencent/webnet
+org/dom4j
+org/htmlcleaner
+com/baidu/location
+com/mongodb
+net/sourceforge/pinyin4j
+org/anddev/andengine
+com/adobe/xmp
+org/apache/log4j
+greendroid
+com/tencent/tauth
+ti/imagefactory
+com/tencent/mobwin
+com/scoreloop
+  912966
+    /home/ubuntu/lib-detector/decoded/com.bluBee.Brexel.apk
+com/tencent/stat
+butterknife
+com/subsplash
+com/tencent/open
+com/papaya
+rajawali/wallpaper
+com/tencent/plus
+com/tencent/record
+cn/domob
+com/adtech
+com/tencent/weibo
+com/skplanet
+okio
+com/baidu/mobads
+com/yixia
+xamarin
+com/vpon
+com/adsmogo
+anywheresoftware
+com/tencent/qqconnect
+com/appmakr
+com/qwapi
+com/baidu/android/pushservice
+com/kakao/talk
+com/aviary
+pagerslidingtabstrip
+com/tencent/qzone
+com/tencent/wpa
+com/qoppa
+com/tencent/t
+com/tencent/connect
+com/deploygate
+  498004
+    /home/ubuntu/lib-detector/decoded/jp.beyond.tw.kaomoji.apk
+com/tencent/weiyun
+com/sina/weibo
+com/baidu/android
+org/jdeferred
+net/youmi
+com/magtab
+flexjson
+com/tencent/utils
+com/dobao
+com/espian/showcaseview
+com/tencent/common
+com/vercoop
+com/tencent/mta
+me/kiip
+  521864
+    /home/ubuntu/lib-detector/decoded/com.game.trailerpop.apk
+biz/neoline
+com/baidu/platform
+opentk
+com/tencent/jsutil
+com/baidu/mobstat
+com/squareup/pollexor
+com/squareup/timessquare
